@@ -56,7 +56,7 @@ int main() {
     pib_per_capita1 = pib1 / populacao1;
 
     
-    printf("Os dados da primeira carta foram cadastrados com sucesso!\n\n");
+    printf("Os dados da primeira carta foram cadastrados com sucesso!!\n\n");
 
 
     printf("Agora cadastre os dados da segunda carta \n\n");
@@ -89,7 +89,7 @@ int main() {
     densidade_populacional2 = populacao2 / area2;
     pib_per_capita2 = pib2 / populacao2;
 
-    printf("Os dados da segunda carta foram cadastrados com sucesso!\n\n");
+    printf("Os dados da segunda carta foram cadastrados com sucesso!!\n\n");
     
     
     printf("Agora que ambas as cartas foram cadastradas, escolha o atributo que quer comparar entre as duas:\n\n");
